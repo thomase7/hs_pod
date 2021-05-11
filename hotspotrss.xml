@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Giant Bombcast</title>
-    <description>Giant Bomb discusses the latest video game news and new releases, taste-test questionable beverages, and get wildly off-topic in this weekly podcast.</description>
+    <title>Hotspot</title>
+    <description>GameSpot editors recap the hottest news and trends in the gaming industry from the past week!</description>
     <link>https://www.giantbomb.com</link>
-    <copyright>2008-2021 Red Ventures</copyright>
+    <copyright>2005-2021 Red Ventures</copyright>
     <language>en-us</language>
-          <itunes:image href="https://www.giantbomb.com/a/uploads/original/11/110673/2927815-3756859778-28940.png?20210510" />
-            <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Giant Bomb discusses the latest video game news and new releases, taste-test questionable beverages, and get wildly off-topic in this weekly podcast.</itunes:subtitle>
-    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Giant Bomb</itunes:author>
-    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Giant Bomb discusses the latest video game news and new releases, taste-test questionable beverages, and get wildly off-topic in this weekly podcast.</itunes:summary>
+          <itunes:image href="https://ia801603.us.archive.org/9/items/gamespot_thehotspot/hotspot.jpg" />
+            <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">GameSpot editors recap the hottest news and trends in the gaming industry from the past week!</itunes:subtitle>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Gamespot</itunes:author>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">GameSpot editors recap the hottest news and trends in the gaming industry from the past week!</itunes:summary>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.giantbomb.com" rel="self" type="application/rss+xml"/>
     <itunes:owner xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-      <itunes:name>Giant Bomb</itunes:name>
-      <itunes:email>bombcast@giantbomb.com</itunes:email>
+      <itunes:name>Hot Spot</itunes:name>
+      <itunes:email>hotspot@giantbomb.com</itunes:email>
     </itunes:owner>
                 <itunes:category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" text="Games &amp; Hobbies">
         <itunes:category text="Video Games"/>
@@ -26,7 +26,7 @@
       </itunes:category>
               <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
           <image>
-                  <title>Giant Bombcast</title>
+                  <title>Hotspot</title>
                   <url>https://ia801603.us.archive.org/9/items/gamespot_thehotspot/hotspot.jpg</url>
                   <link>https://www.giantbomb.com</link>
                   <width>144</width>
@@ -34,7 +34,7 @@
               </image>
         <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Hotspot, Hot Spot, Jeff Gerstmann, Brad Shoemaker, video games, video game news, PS3, Xbox360, Nintendo</itunes:keywords>
     <media:copyright xmlns:media="http://search.yahoo.com/mrss/">2005-2012 Red Ventures</media:copyright>
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.giantbomb.com/a/uploads/original/11/110673/2927815-3756859778-28940.png?20210510"/>
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://archive.org/download/gamespot_thehotspot/hotspot_thumb.jpg"/>
               <media:category xmlns:media="http://search.yahoo.com/mrss/" scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Games &amp; Hobbies/Other Games</media:category>
           <media:category xmlns:media="http://search.yahoo.com/mrss/" scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Gadgets</media:category>
 
