@@ -1,17 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
+  <channel xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Hotspot</title>
+    <description>Hotspot discusses the latest video game news and new releases, taste-test questionable beverages, and get wildly off-topic in this weekly podcast.</description>
+    <link>https://www.giantbomb.com</link>
+    <copyright>2008-2021 Red Ventures</copyright>
     <language>en-us</language>
-    <description>
-      Hotspot
-    </description>
-    <itunes:image
-      href="https://ia801603.us.archive.org/9/items/gamespot_thehotspot/hotspot.jpg"
-    />
-    <itunes:category text="Games">
-    </itunes:category>
-    <itunes:explicit>true</itunes:explicit>
+          <itunes:image href="https://ia801603.us.archive.org/9/items/gamespot_thehotspot/hotspot.jpg" />
+            <itunes:subtitle xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Hotspot discusses the latest video game news and new releases, taste-test questionable beverages, and get wildly off-topic in this weekly podcast.</itunes:subtitle>
+    <itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Hot Spot</itunes:author>
+    <itunes:summary xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Hotspot discusses the latest video game news and new releases, taste-test questionable beverages, and get wildly off-topic in this weekly podcast.</itunes:summary>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://www.giantbomb.com" rel="self" type="application/rss+xml"/>
+    <itunes:owner xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <itunes:name>Hotspot</itunes:name>
+      <itunes:email>bombcast@giantbomb.com</itunes:email>
+    </itunes:owner>
+                <itunes:category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" text="Games &amp; Hobbies">
+        <itunes:category text="Video Games"/>
+      </itunes:category>
+                      <itunes:category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" text="Technology">
+        <itunes:category text="Gadgets"/>
+      </itunes:category>
+                      <itunes:category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" text="Games &amp; Hobbies">
+        <itunes:category text="Other Games"/>
+      </itunes:category>
+              <itunes:explicit xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">no</itunes:explicit>
+          <image>
+                  <title>Hotspot</title>
+                  <url>https://ia801603.us.archive.org/9/items/gamespot_thehotspot/hotspot.jpg</url>
+                  <link>https://www.giantbomb.com</link>
+                  <width>144</width>
+                  <height>144</height>
+              </image>
+        <itunes:keywords xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Hotspot, Hot Spot, Jeff Gerstmann, Brad Shoemaker, video games, video game news, PS3, Xbox360, Nintendo</itunes:keywords>
+    <media:copyright xmlns:media="http://search.yahoo.com/mrss/">2005-2012 Red Ventures</media:copyright>
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ia801603.us.archive.org/9/items/gamespot_thehotspot/hotspot.jpg"/>
+              <media:category xmlns:media="http://search.yahoo.com/mrss/" scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Games &amp; Hobbies/Other Games</media:category>
+          <media:category xmlns:media="http://search.yahoo.com/mrss/" scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Gadgets</media:category>
+    
 <item><title>TheHotSpot-07-20-2005</title><enclosure length="13700000" type="audio/mpeg" url="https://archive.org/details/gamespot_thehotspot/001.TheHotSpot-07-20-2005.mp3"/> <pubDate>Wed, 20 Jul 2005 19:00:00 GMT</pubDate> </item>
 <item><title>TheHotSpot-07-27-2005</title><enclosure length="12500000" type="audio/mpeg" url="https://archive.org/details/gamespot_thehotspot/002.TheHotSpot-07-27-2005.mp3"/> <pubDate>Wed, 27 Jul 2005 19:00:00 GMT</pubDate> </item>
 <item><title>TheHotspot-08-03-2005</title><enclosure length="13800000" type="audio/mpeg" url="https://archive.org/details/gamespot_thehotspot/003.TheHotspot-08-03-2005.mp3"/> <pubDate>Wed, 3 Aug 2005 19:00:00 GMT</pubDate> </item>
